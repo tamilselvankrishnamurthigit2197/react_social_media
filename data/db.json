@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "1000 Porkaasugal",
+      "date": "22 dec 2023",
+      "body": "Tamil cinema released starring Vemal, saravanan"
+    },
+    {
+      "id": "2",
+      "title": "Manjummel Boys",
+      "date": "21 feb 2024",
+      "body": "Malayalam cinema released starring Shoubin, kamal and collected 50crs"
+    },
+    {
+      "id": "3",
+      "title": "premalu",
+      "datetime": "Mar 05, 2024 2:29:20 PM",
+      "body": "Malayalam cinema released starring naslen, mamitha and collected 70crs+"
+    },
+    {
+      "id": "41",
+      "title": "Finally it's Came ",
+      "datetime": "Mar 05, 2024 8:41:50 AM",
+      "body": "the post which i'm doing, given it's result with BrowserRouter, axios, api"
+    },
+    {
+      "id": "411",
+      "title": "Hi, Congrats",
+      "datetime": "Mar 06, 2024 5:23:09 PM",
+      "body": "Completed React Course, use hooks and api"
+    }
+  ]
+}
